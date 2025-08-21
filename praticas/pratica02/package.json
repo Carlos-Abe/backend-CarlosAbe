@@ -1,6 +1,6 @@
 {
-  "name": "pratica2",
-  "version": "1.0.1",
+  "name": "segunda_pratica",
+  "version": "1.1.0",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
