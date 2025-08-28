@@ -1,0 +1,19 @@
+{
+  "name": "aula05",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests/index.test.js"
+  },
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type":"commonjs",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.1.1"
+  }
+}
