@@ -15,7 +15,7 @@ async function conectar() {
   try {
     if (db == null){
         await client.connect();
-        db = client.db("agenda");
+        db = client.db("agenda_aula09");
     
     }
     console.log("Conectado ao MongoDB")
